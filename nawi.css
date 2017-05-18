@@ -82,14 +82,13 @@ table, th, td {
     table-layout: fixed;
     vertical-align: bottom;
 }
-/*
-img.raster{
-	position: relative;
-	display: block; 
-	width: 100%; 
-	height: auto;
+
+img.nawibild{
+	float: right; 
+	height: 20.0vw; 
+	margin: 15px;
 }
-*/
+
 h4 span {
 	color: white; 
 	background: rgb(0, 0, 0); /* fallback color */
