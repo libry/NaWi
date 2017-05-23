@@ -47,7 +47,7 @@ li a:hover:not(.active) {
 #BGkarte {
 	height: 100%;
 	width: 100%;
-	background: url("map01.png");
+	background: url("map01.jpg");
 	background-repeat: no-repeat;
 	background-size: 100% 100%;
 	background-position: right; 
@@ -83,7 +83,7 @@ table, th, td {
     vertical-align: bottom;
 }
 
-img.nawibild{
+img.nawibild {
 	float: right; 
 	height: 20.0vw; 
 	margin: 15px;
@@ -93,5 +93,5 @@ h4 span {
 	color: white; 
 	background: rgb(0, 0, 0); /* fallback color */
 	background: rgba(0, 0, 0, 0.5);
-	padding: 7px; 
+	padding: 1px; 
 }
