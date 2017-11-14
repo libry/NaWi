@@ -5,4 +5,9 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
     <string name="action_settings">Settings</string>
+
+    <string name="nawi_beacons">Stationen</string>
+    <string name="nawi_tiere">Tiere</string>
+    <string name="nawi_pflanzen">Pflanzen</string>
+    <string name="umfrage">Umfrage</string>
 </resources>
