@@ -4,10 +4,6 @@
 
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/nawi_beacons"
-            android:icon="@drawable/beacon"
-            android:title="Stationen" />
-        <item
             android:id="@+id/nawi_tiere"
             android:icon="@drawable/tiere"
             android:title="Tiere" />
@@ -17,8 +13,12 @@
             android:title="Pflanzen" />
         <item
             android:id="@+id/nawi_umfrage"
-            android:icon="@android:drawable/ic_menu_help"
+            android:icon="@android:drawable/ic_menu_agenda"
             android:title="@string/umfrage" />
+        <item
+            android:id="@+id/nawi_info"
+            android:icon="@android:drawable/ic_menu_help"
+            android:title="Info" />
     </group>
 
 </menu>
