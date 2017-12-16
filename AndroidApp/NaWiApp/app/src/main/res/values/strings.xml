@@ -10,4 +10,6 @@
     <string name="nawi_tiere">Tiere</string>
     <string name="nawi_pflanzen">Pflanzen</string>
     <string name="umfrage">Umfrage</string>
+    <string name="title_activity_pflanzen_ansicht">PflanzenAnsicht</string>
+    <string name="title_activity_pflanzen">Pflanzen</string>
 </resources>

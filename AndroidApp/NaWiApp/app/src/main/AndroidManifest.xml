@@ -12,14 +12,18 @@
         <activity
             android:name=".Hauptfenster"
             android:label="Riedlehrpfad NaWi"
-            android:theme="@style/AppTheme.NoActionBar"
-            android:screenOrientation="landscape">
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".Pflanzen"
+            android:label="@string/title_activity_pflanzen"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

@@ -2,6 +2,7 @@ package com.botlegsystems.nawiapp;
 
 import android.app.ActionBar;
 import android.content.Context;
+import android.content.Intent;
 import android.content.res.Resources;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
@@ -12,10 +13,12 @@ import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 import android.graphics.drawable.ScaleDrawable;
 import android.os.Bundle;
+import android.support.annotation.NonNull;
 import android.support.design.internal.NavigationMenuView;
 import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.Snackbar;
 import android.util.DisplayMetrics;
+import android.util.Log;
 import android.view.Display;
 import android.view.View;
 import android.support.design.widget.NavigationView;
@@ -56,9 +59,6 @@ public class Hauptfenster extends AppCompatActivity
                 this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close);
         drawer.setDrawerListener(toggle);
         toggle.syncState();
-
-        final NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
-        navigationView.setNavigationItemSelectedListener(this);
 
         int navigationBarHeight = getNavigationBarHeight();
 
@@ -312,6 +312,8 @@ public class Hauptfenster extends AppCompatActivity
         map_overlay.addView(station7);
         map_overlay.addView(station7_text);
 
+        NavigationView navigationView = (NavigationView) findViewById(R.id.nav_view);
+        navigationView.setNavigationItemSelectedListener(this);
     }
 
     @Override
@@ -324,6 +326,7 @@ public class Hauptfenster extends AppCompatActivity
         }
     }
 
+    /*
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
@@ -343,17 +346,18 @@ public class Hauptfenster extends AppCompatActivity
 
         return super.onOptionsItemSelected(item);
     }
+    */
 
-    @SuppressWarnings("StatementWithEmptyBody")
     @Override
-    public boolean onNavigationItemSelected(MenuItem item) {
+    public boolean onNavigationItemSelected(@NonNull MenuItem item) {
         // Handle navigation view item clicks here.
         int id = item.getItemId();
 
         if (id == R.id.nawi_pflanzen) {
-
+            Intent i = new Intent(Hauptfenster.this, Pflanzen.class);
+            startActivity(i);
         } else if (id == R.id.nawi_tiere) {
-
+            Log.d("tiere", "Tiere gedrück!");
         } else if (id == R.id.nawi_umfrage) {
 
         } else if (id == R.id.nawi_info) {
@@ -365,7 +369,15 @@ public class Hauptfenster extends AppCompatActivity
         return true;
     }
 
-    public int getNavigationBarHeight() {
+    public void showPlants(View view){
+        Log.d("plants", "Show Pflanzen gedrück!");
+    }
+
+    public void showAnimals(View view){
+        Log.d("tiere", "Show Tiere gedrück!");
+    }
+
+    private int getNavigationBarHeight() {
         Resources resources = getResources();
         int resourceId = resources.getIdentifier("navigation_bar_height", "dimen", "android");
         if (resourceId > 0) {

@@ -6,11 +6,11 @@
         <item
             android:id="@+id/nawi_tiere"
             android:icon="@drawable/tiere"
-            android:title="Tiere" />
+            android:title="Tiere"/>
         <item
             android:id="@+id/nawi_pflanzen"
             android:icon="@drawable/sumpf"
-            android:title="Pflanzen" />
+            android:title="Pflanzen"/>
         <item
             android:id="@+id/nawi_umfrage"
             android:icon="@android:drawable/ic_menu_agenda"
