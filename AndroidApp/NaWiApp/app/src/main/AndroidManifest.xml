@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.botlegsystems.nawiapp">
+
+    <uses-sdk tools:overrideLibrary="com.google.android.gms" />
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <!-- minimum permissions for BLE beacons -->
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <!-- BLE background detection requires some permissions (these are runtime in Android 6) - uncomment this if you are not using Geofences -->
+    <!--<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />-->
+
+    <!-- geofence usage requires some permissions (these are runtime in Android 6) -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 
     <application
         android:allowBackup="true"
@@ -9,6 +26,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.google.android.gms.version" />
+        <meta-data
+            android:name="com.google.android.gms.vision.DEPENDENCIES"
+            android:value="barcode" />
+
         <activity
             android:name=".Hauptfenster"
             android:label="Riedlehrpfad NaWi"
@@ -23,7 +46,95 @@
         <activity
             android:name=".Pflanzen"
             android:label="@string/title_activity_pflanzen"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".Inhaltsuebersicht"
+            android:label="@string/title_activity_inhaltsuebersicht"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".Tiere"
+            android:label="@string/title_activity_tiere"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".Inhaltsuebersicht_Tiere"
+            android:label="@string/title_activity_inhaltsuebersicht_tiere"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".Inhaltselement"
+            android:label="@string/title_activity_inhaltselement"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".Inhaltselement_Tiere"
+            android:label="@string/title_activity_inhaltselement_tiere"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".Naturschutzzentrum"
+            android:label="@string/title_activity_naturschutzzentrum"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".Grenzpfahl"
+            android:label="@string/title_activity_grenzpfahl"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".Hochmoor"
+            android:label="@string/title_activity_hochmoor_eulenbruck"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".Teichetuempel"
+            android:label="@string/title_activity_teiche_und_tuempel"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".Torfstechen"
+            android:label="@string/title_activity_torfstechen"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".Ueberwachsener_see"
+            android:label="@string/title_activity_ueberwachsener_see"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".Entstehung"
+            android:label="@string/title_activity_entstehung"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".Umfrage"
+            android:label="@string/title_activity_umfrage"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity
+            android:name=".Info"
+            android:label="@string/title_activity_info"
+            android:screenOrientation="landscape"
+            android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+        <activity android:name="com.google.android.gms.samples.vision.face.multitracker.MultiTrackerActivity"
+            android:label="Read Barcode">
+        </activity>
     </application>
-
 </manifest>

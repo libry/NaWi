@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/tiere_amphibien"
+            android:icon="@drawable/amphibien"
+            android:title="Amphibien"/>
+        <item
+            android:id="@+id/tiere_insekten"
+            android:icon="@drawable/insekten"
+            android:title="Insekten"/>
+        <item
+            android:id="@+id/tiere_libellen"
+            android:icon="@drawable/libellen"
+            android:title="Libellen" />
+        <item
+            android:id="@+id/tiere_reptilien"
+            android:icon="@drawable/reptilien"
+            android:title="Reptilien" />
+        <item
+            android:id="@+id/tiere_saeugetiere"
+            android:icon="@drawable/saeugetiere"
+            android:title="Säugetiere" />
+        <item
+            android:id="@+id/tiere_spinnen"
+            android:icon="@drawable/spinnen"
+            android:title="Spinnen" />
+        <item
+            android:id="@+id/tiere_voegel"
+            android:icon="@drawable/voegel"
+            android:title="Vögel" />
+        <item
+            android:id="@+id/map"
+            android:icon="@drawable/map"
+            android:title="Karte" />
+    </group>
+
+</menu>

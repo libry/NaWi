@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/86a599f5ba732ff1865165c30ba2c6648edb8132/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25792fca4290184fb10fd35ebd4ce9fa353b32c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/6aec2f705f56e32d72332de9a67da9c9b544d4f0/output/jars/libs/android-beacon-library.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a5543f4e745b8c49c2736821f0dce4c3df93b85">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/android-beacon-library_293dcb8a0be1b3d314595b0f88b53149026f4fdf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/4120a6481a1b131053932c7fad30477240574a2c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bc68e9a2edfeb9031dcc237ba254037be2fcbb5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/524421c5d3859a75478f9d2568bd91f126a2d154/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5462b12a0710112f5d6027faa2fd29e027e61d63/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/096a94641f31f703d9817fd8576448697ca58a9e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_53ec67f87e820d0ea702c78f8e923ac94e37379a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/934e083d93a2818ba4f4cc9f11558d6bf7a69f2f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0bf3fb27c74b0199c3e8894b7b92baec0fec9118/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/b63235cc84a31707be8b381717ad2a384bea5665/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_5292febfb7e2f76ac6b7b2422fddbdd1767e5e11.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/6aec2f705f56e32d72332de9a67da9c9b544d4f0/output/jars/libs/proximitykit-geofence-v5-0.12.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c9794e9832f6c42a527c100cbcaded6a92b33088">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/proximitykit-geofence-v5-0.12.1_ddbc04ad89557585bfaf5dc08d557821b8f211f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/26f0d683b25215d0916b54de225b10141e32ba48/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_ef00fa83eba57a99b257f6a77c21bdff1553cf78.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/e3296c36d8d5a5e706b2eff7cdd1f5e33ba6cafe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4fe41d71287df4c0dfb7c35f8433e2101ec27337/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/7fc21c440923b813aaf193aee730e4dd3437da10/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_ddc6e0d293d56a6aa4477de22c511bad55a0d6e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/a75590275999be36b7fb52753591a9ec35e2a7df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_69f036c31254d8ae3ee2328c3f5c6801a9afb325.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/199765231406b782b306dc088597911c5dd2696a/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0dad76354e2dec1ba4ffdb5fd68ccab971234ded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/7b5fd030e72be9620a7f8846f8a4ba227feb0cda/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_92d3d05eff1e4ef319a777ca13cb68f94b9a94d2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/fda7daf693bba7cddcb4008b05a6205d3d150240/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1533a1c172993b17965002e11344dd57209a0d11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/004ea20be1395f693e02df8bdf4e0c1c59f98685/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_581cfdc819f931420366b14b8c5faf6113f9c05a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/04a87a1627f84ed785632b74f47a04003feb3d0e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_6a7a94332392435161fe220ce050435b89f888e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/4ec49ca6ab46b5f956f5739b647d6805ee2cd83b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_681884442fcc9af02d03b925c5ef36c17c5ea352.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/d2d04863a7254db4ddd088a74a1ff1d24eebe440/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_b2d8bc97bf92443bf8a38c135949970bf80da6c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/199765231406b782b306dc088597911c5dd2696a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_667fd967c8930b4af7371f962536da5f66a41812.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/949aa792188473704ad77eb3d1cc8cc0a1a7e20f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_858b438416feb6f1b5cb7025bb68b241632ff43f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/c72d01fda649db29d1931a6615892d200bfb6cfa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5549f0fe9c46cb9079132bacb942fe1d703eda2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/88d75aa8d46df8724f81ae6ba5b0856b4a9982fe/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_e2cd6952204c078fca08f8f97c3fdee971deeda4/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/810085229d8a98d5db1d94837521d1075eebe8d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_01bfa7b6995a7259c229e59d52c25e202d5e8458.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/b24581be9a2fedc0d405a56805b51d9839a147b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_779666c74e34229d36aa9d5734b642f0e7ffe824.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/e3296c36d8d5a5e706b2eff7cdd1f5e33ba6cafe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_4fe41d71287df4c0dfb7c35f8433e2101ec27337.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/f293ddcf888e338de99c781311f6a77629f214fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_f06a4ac67dd6204dd925230750133526caa93237.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/861cf1ab1872d8a58ee81f81e99d1c43d0bdeba8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_fed2d664f64bc397f3e5b55458007889136ba614.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/4279e6d0271dcd11715547f56da9e5b7b4a58369/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_beaedb3b87481fb17390af0356eefeb08bd9d8dd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/6f3a5039669609efca4b6e1b7b6bd778d0ff118c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a5194bda90d5ccbef304a11499234c78cac7d11/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/e59686fe3b7d5e40a660b6c2c49e9516dd57c892/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_8ed2e33cd2035fe72c959dd78e9ea6b2edb30f36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/86a599f5ba732ff1865165c30ba2c6648edb8132/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_25792fca4290184fb10fd35ebd4ce9fa353b32c5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/6aec2f705f56e32d72332de9a67da9c9b544d4f0/output/jars/libs/android-beacon-library.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a5543f4e745b8c49c2736821f0dce4c3df93b85">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/android-beacon-library_293dcb8a0be1b3d314595b0f88b53149026f4fdf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/51641a3f677940af67e9da1af6124ce50bd233ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_8d4066a46d6cc5c995582da4646c8f8004e2f6a0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/d0ae89f4ed9a2fcb95cef07508128dd9287fb0eb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4191c52dd057c89e957b4c14e553516e85cb8316/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/4ec49ca6ab46b5f956f5739b647d6805ee2cd83b/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_4372453f8894ad6eb703ad08026962fbab420b14/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/9d951a1c1f69bbcb5b93226c90307baff86fc96f/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_3c148c664ae22eefee03a1cff8e3b7f4b55fc03f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/b63235cc84a31707be8b381717ad2a384bea5665/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5292febfb7e2f76ac6b7b2422fddbdd1767e5e11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffdbc494cc9af569a03fa425770f9c02af03fb5a">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a0ff05e8aab62b94a37c795fc776251a7be730a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/26f0d683b25215d0916b54de225b10141e32ba48/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef00fa83eba57a99b257f6a77c21bdff1553cf78/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/5118713ac59d934138ae5aec9674b2025d0dc40c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_d6fad69066eef4fbf8d48699c70cdb47ef9ceb33.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/6aec2f705f56e32d72332de9a67da9c9b544d4f0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98f04c03ce0660bc3968d5c01f759dd92a153dd3">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_80abfd4ff357ccc33a64f16515fd26174e24922e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/199765231406b782b306dc088597911c5dd2696a/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_0dad76354e2dec1ba4ffdb5fd68ccab971234ded/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/6aec2f705f56e32d72332de9a67da9c9b544d4f0/output/jars/libs/statuskit-0.12.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="afca065f6f433654b6c35e05afd0292d2866d114">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/statuskit-0.12.1_2d887be9003fae8c72bf5bbe9d982ee16634d56f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/6aec2f705f56e32d72332de9a67da9c9b544d4f0/output/jars/libs/proximitykit-geofencing-0.12.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2caa23f687f671c8422a0ff7a51986817edadcc6">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/proximitykit-geofencing-0.12.1_30b5d48807fa74f898592ca04e4f7f5b8b051bb5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/653ee7c231a2168116bb1119f4a6f0d818d175b2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b78228dc01c05686e6cba56d28ccfbfd2f874dc9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/d2d04863a7254db4ddd088a74a1ff1d24eebe440/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2d8bc97bf92443bf8a38c135949970bf80da6c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/a75590275999be36b7fb52753591a9ec35e2a7df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69f036c31254d8ae3ee2328c3f5c6801a9afb325/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/c8cd9772a990c22220b5f279d114db830d77f661/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_f182d4f66c2411f049a20eb613b53e1a3c38bedf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/ba1e0f7738cd8a4ccbf5f675c68de002005e9d04/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_868b656dfd743019a02cc6064c08205fced79c41/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/949aa792188473704ad77eb3d1cc8cc0a1a7e20f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_858b438416feb6f1b5cb7025bb68b241632ff43f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/6aec2f705f56e32d72332de9a67da9c9b544d4f0/output/jars/libs/greendao-1.3.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dda08161d004c4df96938da6909f1c2b96cd33c8">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/greendao-1.3.7_430f4db462b73ae464ed2d3e9b286def4f589e70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/7806e61e9a9669b1a5381e6869da376538208399/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_50777ebb7a46db78b46438dd34a1c61a08dfb9e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/88d75aa8d46df8724f81ae6ba5b0856b4a9982fe/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_e2cd6952204c078fca08f8f97c3fdee971deeda4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/b1bb056ba96d8f55c352cfc812d9be06326f5e05/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2b7590ecf206ce82aa839c6e31677f9ed7a27187/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/c4506f25c5ff54c76337b2fc2a16ebde273465ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_901e7ce730ffd24618946d2de7ab5c2c9caab8a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/b24581be9a2fedc0d405a56805b51d9839a147b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_779666c74e34229d36aa9d5734b642f0e7ffe824/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/2669cbf6e8665d26f06e12a9b05da03fa54d7960/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd556fc661da92c36c4d39ab9f91308ee7f500ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/f293ddcf888e338de99c781311f6a77629f214fc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f06a4ac67dd6204dd925230750133526caa93237/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/06e6fcff62d62f1a8700151c9f38e4e0280f7465/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01d0bde3d5e8c4d831c1f015f8443d825228036a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/6f3a5039669609efca4b6e1b7b6bd778d0ff118c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_7a5194bda90d5ccbef304a11499234c78cac7d11.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/5470cee47df34e662b4e4378897bd56180b7ac48/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_caf0820185ff24a01a5346ec437d4b0c43b138db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/e59686fe3b7d5e40a660b6c2c49e9516dd57c892/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ed2e33cd2035fe72c959dd78e9ea6b2edb30f36/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/00f98f553a3b073578003e1a19ad556b4742e2e4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_75e6b72e2c634e86556a3e9e7ad64f613108e382.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/fda7daf693bba7cddcb4008b05a6205d3d150240/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_756e32c445de03f9710969b1e52df7cf03740f77/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/69e5bc0797e5e1d682e7dda17cda313f343d38ba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_20cd44a328f023d1c66d84334d59f923ef593e92.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/8998848befd55e4d0cf38989330c546cdc3fad7c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7a3c31bff9e5f5a0f762aa7acc99760270fceb5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/51641a3f677940af67e9da1af6124ce50bd233ae/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d4066a46d6cc5c995582da4646c8f8004e2f6a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/88d75aa8d46df8724f81ae6ba5b0856b4a9982fe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_1d6c41bbd5b5019e1b89d1350004737fba289793.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/4a58b0d2a6728618149cb23b44864e9cc7b052f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d154d678cc4c1e2c6c668dec7e3390d8bdc7d76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/9d951a1c1f69bbcb5b93226c90307baff86fc96f/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_3c148c664ae22eefee03a1cff8e3b7f4b55fc03f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/c3f317babbe87e015ea8e5bcdc7d6502115470fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_87e9902c2b3caf543671dfe62e5e3a8b48820bc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/4ec49ca6ab46b5f956f5739b647d6805ee2cd83b/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_4372453f8894ad6eb703ad08026962fbab420b14.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/0ffd736a9dada30cc714cf036e59a68fc34f4c8d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d71a5501b67a08c362aeed19e672293390e1cd02/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/b82ff7f9269aeb24ce40d6d821051e312d5a319d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_7d3768d4d489882cf785c9c6a47eea4780df9ab6.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/822284e50b96d23b1483825e15385d6ed5e5210e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2720fd19ffe03c0605cee1023116793b9ec6a0a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/0cb2f34882aa1f12aa4ffad6dc2bbe224eee90ba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e8da9ded90279b2dd8702fd7503020568c79eb40/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/77446c30bc4b494897ebb0c16fa689d2be58f72d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_e380333db2395a092e4987fe1583505eec418af8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/6aec2f705f56e32d72332de9a67da9c9b544d4f0/output/jars/libs/proximitykit-geofencing-0.12.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2caa23f687f671c8422a0ff7a51986817edadcc6">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/proximitykit-geofencing-0.12.1_30b5d48807fa74f898592ca04e4f7f5b8b051bb5/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/6aec2f705f56e32d72332de9a67da9c9b544d4f0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98f04c03ce0660bc3968d5c01f759dd92a153dd3">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_80abfd4ff357ccc33a64f16515fd26174e24922e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/6aec2f705f56e32d72332de9a67da9c9b544d4f0/output/jars/libs/statuskit-0.12.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="afca065f6f433654b6c35e05afd0292d2866d114">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/statuskit-0.12.1_2d887be9003fae8c72bf5bbe9d982ee16634d56f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/d0ae89f4ed9a2fcb95cef07508128dd9287fb0eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_4191c52dd057c89e957b4c14e553516e85cb8316.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/41306d40fb4b05296eb076f7fb3d4f4340555e34/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a98cfd0eca4177d47388642be0f746f9ce4dc3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/653ee7c231a2168116bb1119f4a6f0d818d175b2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_b78228dc01c05686e6cba56d28ccfbfd2f874dc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/9a38d3b761dcc8969a4bde5a40c8af109c3f626b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_9ee21cbaafbd8ae993d4ed116c0205144137203c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/ba1e0f7738cd8a4ccbf5f675c68de002005e9d04/output/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_868b656dfd743019a02cc6064c08205fced79c41.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/5118713ac59d934138ae5aec9674b2025d0dc40c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d6fad69066eef4fbf8d48699c70cdb47ef9ceb33/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/c8cd9772a990c22220b5f279d114db830d77f661/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f182d4f66c2411f049a20eb613b53e1a3c38bedf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_36e62998574505011af143d537fda47255b3d024.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/94810e5d3c2d785518714173f0208c47c2a06233/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8c9a5f6204634a4bde7f342596461e22cf7de918/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/9d951a1c1f69bbcb5b93226c90307baff86fc96f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_720107f20a8de2232b1f43bf4870f2f51b1afad8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/6aec2f705f56e32d72332de9a67da9c9b544d4f0/output/jars/libs/greendao-1.3.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dda08161d004c4df96938da6909f1c2b96cd33c8">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/greendao-1.3.7_430f4db462b73ae464ed2d3e9b286def4f589e70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/5606daf9b4dfc53e60d84efcec57aa229a14b0a9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a3cc69d0594e55754d0ec919fe8165b0cb8e6436/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/6aec2f705f56e32d72332de9a67da9c9b544d4f0/output/jars/libs/proximitykit-geofence-v4-0.12.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="54b374b96523d6fe460f24a3e27b33658dd82d62">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/proximitykit-geofence-v4-0.12.1_9352a2df92e4e81978cdee17889a5b30cd873ae0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/7806e61e9a9669b1a5381e6869da376538208399/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50777ebb7a46db78b46438dd34a1c61a08dfb9e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/b1bb056ba96d8f55c352cfc812d9be06326f5e05/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_2b7590ecf206ce82aa839c6e31677f9ed7a27187.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/c4506f25c5ff54c76337b2fc2a16ebde273465ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_901e7ce730ffd24618946d2de7ab5c2c9caab8a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/76410227974d532616a5316a1eb115ca786c4762/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_c0b3eb786c98eea742c07561802716f64b87028a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/fac40e4df034d108a1004dfbcf5e9fe31a79bb4e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_cc53a34fa1a394005aad4d6c49906fc68528cee8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/ba1e0f7738cd8a4ccbf5f675c68de002005e9d04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_a3aab9b4db68b311538c8210b121acbe9d01602b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/2669cbf6e8665d26f06e12a9b05da03fa54d7960/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_dd556fc661da92c36c4d39ab9f91308ee7f500ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/5470cee47df34e662b4e4378897bd56180b7ac48/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_caf0820185ff24a01a5346ec437d4b0c43b138db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/4a58b0d2a6728618149cb23b44864e9cc7b052f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_2d154d678cc4c1e2c6c668dec7e3390d8bdc7d76.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/6aec2f705f56e32d72332de9a67da9c9b544d4f0/output/jars/libs/proximitykit-geofence-v8-0.12.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="428fdadfab8525159796a0a0841a80bac77c6409">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/proximitykit-geofence-v8-0.12.1_bce8d9efee1695fb8fe34e26d9abc5494f575acc/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/69a19eae58ef1099c616cffe62a79671c6c10e6a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_2af654b478c2d7fa0f8ecc5994ace8d3a31a0547.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/6aec2f705f56e32d72332de9a67da9c9b544d4f0/output/jars/libs/hal-0.12.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eaaa5d0a32c554a22f346fb84b844605d2780681">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/hal-0.12.1_73b2076cdf15cb489f72a8036e2fe6f46a946127/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/00f98f553a3b073578003e1a19ad556b4742e2e4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_75e6b72e2c634e86556a3e9e7ad64f613108e382/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/b3fe2a05815f5f9f32d165e33b219b40185abbdb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_41a7c4727e9be71dadc5a87a2bf6bebe302c5bf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/fda7daf693bba7cddcb4008b05a6205d3d150240/output/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_756e32c445de03f9710969b1e52df7cf03740f77.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/88d75aa8d46df8724f81ae6ba5b0856b4a9982fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1d6c41bbd5b5019e1b89d1350004737fba289793/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_fc382954edbb7228086837e25af2a7a1a03ad59b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/c3f317babbe87e015ea8e5bcdc7d6502115470fb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_87e9902c2b3caf543671dfe62e5e3a8b48820bc6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/934e083d93a2818ba4f4cc9f11558d6bf7a69f2f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_0bf3fb27c74b0199c3e8894b7b92baec0fec9118.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/69e5bc0797e5e1d682e7dda17cda313f343d38ba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_20cd44a328f023d1c66d84334d59f923ef593e92/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/8998848befd55e4d0cf38989330c546cdc3fad7c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_7a3c31bff9e5f5a0f762aa7acc99760270fceb5f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/b82ff7f9269aeb24ce40d6d821051e312d5a319d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7d3768d4d489882cf785c9c6a47eea4780df9ab6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/096a94641f31f703d9817fd8576448697ca58a9e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_53ec67f87e820d0ea702c78f8e923ac94e37379a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/06e6fcff62d62f1a8700151c9f38e4e0280f7465/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_01d0bde3d5e8c4d831c1f015f8443d825228036a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/0ffd736a9dada30cc714cf036e59a68fc34f4c8d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_d71a5501b67a08c362aeed19e672293390e1cd02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/0cb2f34882aa1f12aa4ffad6dc2bbe224eee90ba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_e8da9ded90279b2dd8702fd7503020568c79eb40.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_36e62998574505011af143d537fda47255b3d024/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/004ea20be1395f693e02df8bdf4e0c1c59f98685/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_581cfdc819f931420366b14b8c5faf6113f9c05a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/41306d40fb4b05296eb076f7fb3d4f4340555e34/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_9a98cfd0eca4177d47388642be0f746f9ce4dc3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/524421c5d3859a75478f9d2568bd91f126a2d154/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_5462b12a0710112f5d6027faa2fd29e027e61d63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/4120a6481a1b131053932c7fad30477240574a2c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_bc68e9a2edfeb9031dcc237ba254037be2fcbb5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/6aec2f705f56e32d72332de9a67da9c9b544d4f0/output/jars/libs/proximitykit-geofence-v5-0.12.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c9794e9832f6c42a527c100cbcaded6a92b33088">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/proximitykit-geofence-v5-0.12.1_ddbc04ad89557585bfaf5dc08d557821b8f211f2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/810085229d8a98d5db1d94837521d1075eebe8d5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01bfa7b6995a7259c229e59d52c25e202d5e8458/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/822284e50b96d23b1483825e15385d6ed5e5210e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_2720fd19ffe03c0605cee1023116793b9ec6a0a9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/7b5fd030e72be9620a7f8846f8a4ba227feb0cda/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_92d3d05eff1e4ef319a777ca13cb68f94b9a94d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/9a38d3b761dcc8969a4bde5a40c8af109c3f626b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ee21cbaafbd8ae993d4ed116c0205144137203c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/fda7daf693bba7cddcb4008b05a6205d3d150240/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_1533a1c172993b17965002e11344dd57209a0d11.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/4ec49ca6ab46b5f956f5739b647d6805ee2cd83b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_681884442fcc9af02d03b925c5ef36c17c5ea352/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/199765231406b782b306dc088597911c5dd2696a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_667fd967c8930b4af7371f962536da5f66a41812/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/04a87a1627f84ed785632b74f47a04003feb3d0e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6a7a94332392435161fe220ce050435b89f888e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/77446c30bc4b494897ebb0c16fa689d2be58f72d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e380333db2395a092e4987fe1583505eec418af8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/6aec2f705f56e32d72332de9a67da9c9b544d4f0/output/jars/libs/proximitykit-geofence-v4-0.12.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="54b374b96523d6fe460f24a3e27b33658dd82d62">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/proximitykit-geofence-v4-0.12.1_9352a2df92e4e81978cdee17889a5b30cd873ae0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/94810e5d3c2d785518714173f0208c47c2a06233/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_8c9a5f6204634a4bde7f342596461e22cf7de918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/c72d01fda649db29d1931a6615892d200bfb6cfa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_d5549f0fe9c46cb9079132bacb942fe1d703eda2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/7fc21c440923b813aaf193aee730e4dd3437da10/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ddc6e0d293d56a6aa4477de22c511bad55a0d6e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/5606daf9b4dfc53e60d84efcec57aa229a14b0a9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_a3cc69d0594e55754d0ec919fe8165b0cb8e6436.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/76410227974d532616a5316a1eb115ca786c4762/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c0b3eb786c98eea742c07561802716f64b87028a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/fac40e4df034d108a1004dfbcf5e9fe31a79bb4e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cc53a34fa1a394005aad4d6c49906fc68528cee8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/ba1e0f7738cd8a4ccbf5f675c68de002005e9d04/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a3aab9b4db68b311538c8210b121acbe9d01602b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/6aec2f705f56e32d72332de9a67da9c9b544d4f0/output/jars/libs/proximitykit-geofence-v8-0.12.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="428fdadfab8525159796a0a0841a80bac77c6409">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/proximitykit-geofence-v8-0.12.1_bce8d9efee1695fb8fe34e26d9abc5494f575acc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/b3fe2a05815f5f9f32d165e33b219b40185abbdb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41a7c4727e9be71dadc5a87a2bf6bebe302c5bf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/861cf1ab1872d8a58ee81f81e99d1c43d0bdeba8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fed2d664f64bc397f3e5b55458007889136ba614/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/4279e6d0271dcd11715547f56da9e5b7b4a58369/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_beaedb3b87481fb17390af0356eefeb08bd9d8dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/6aec2f705f56e32d72332de9a67da9c9b544d4f0/output/jars/libs/hal-0.12.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eaaa5d0a32c554a22f346fb84b844605d2780681">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/hal-0.12.1_73b2076cdf15cb489f72a8036e2fe6f46a946127.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/lehmannr/.android/build-cache/9d951a1c1f69bbcb5b93226c90307baff86fc96f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/pre-dexed/debug/classes_720107f20a8de2232b1f43bf4870f2f51b1afad8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/lehmannr/.android/build-cache/69a19eae58ef1099c616cffe62a79671c6c10e6a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/lehmannr/AndroidStudioProjects/AndroidProximityReference/AndroidProximityKitReference/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2af654b478c2d7fa0f8ecc5994ace8d3a31a0547/classes.dex" />
+    </item>
+
+</items>

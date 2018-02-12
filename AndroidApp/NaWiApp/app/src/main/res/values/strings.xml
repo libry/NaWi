@@ -10,6 +10,469 @@
     <string name="nawi_tiere">Tiere</string>
     <string name="nawi_pflanzen">Pflanzen</string>
     <string name="umfrage">Umfrage</string>
-    <string name="title_activity_pflanzen_ansicht">PflanzenAnsicht</string>
     <string name="title_activity_pflanzen">Pflanzen</string>
+    <string name="title_activity_tiere">Tiere</string>
+    <string name="title_activity_umfrage">Umfrage</string>
+    <string name="title_activity_info">Info</string>
+    <string name="title_activity_naturschutzzentrum">Naturschutzzentrum</string>
+    <string name="title_activity_entstehung">Entstehung</string>
+    <string name="title_activity_torfstechen">Torfstechen</string>
+    <string name="title_activity_ueberwachsener_see">Überwachsener See</string>
+    <string name="title_activity_grenzpfahl">Grenzpfahl</string>
+    <string name="title_activity_hochmoor_eulenbruck">Hochmoor Eulenbruck</string>
+    <string name="title_activity_teiche_und_tuempel">Teiche und Tümpel</string>
+    <string name="title_activity_inhaltsuebersicht">Inhaltsuebersicht</string>
+    <string name="title_activity_inhaltsuebersicht_tiere">Inhaltsuebersicht</string>
+    <string name="title_activity_inhaltselement">Inhaltselement</string>
+    <string name="title_activity_inhaltselement_tiere">Inhaltselement</string>
+    <string name="content_naturschutzzentrum">
+        Naturschutzzentrum Wilhelmsdorf der Stiftung Naturschutz Pfrunger-Burgweiler-Ried\n\n
+        Das Naturschutzzentrum liegt am zweitgrößten Moorgebiet Südwestdeutschlands, dem Pfrunger-Burgweiler Ried - ganze 2.600 ha groß und wurde vom Land Baden-Württemberg mit der Betreuung und Überwachung der Naturschutzgebiete im Pfrunger-Burgweiler Ried beauftragt. Wichtig sind noch die naturpädagogischen Angebote in der Umweltbildung und die Infos für alle im Rahmen der Öffentlichkeitsarbeit.\n\n
+        In der seit 2012 bestehenden neuen großen interaktiven Moorausstellung könnt ihr noch mehr über die Entstehung des Riedes und seine Dimensionen, die Bewohner des Riedes und den Einfluss des Menschen darauf erfahren. Außerdem steht dort welche Tücken bei der Renaturierung des Riedes auftraten und warum Moorschutz gut fürs Klima ist.\n\n
+        Auch was es mit dem größten Bannwald Baden-Württembergs auf sich hat wird hier erklärt. Und wenn ihr wollt nimmt euch unser Maskottchen Emy, eine Europäische Sumpfschildkröte, mit auf eine Expedition durch Moor und Zeit, schaut doch einfach mal vorbei.\n\n
+        Für die Umweltbildung stehen uns die Naturerlebnisschule und das Sommerklassenzimmer zur Verfügung, hier werden Schulklassenführungen, Naturerlebnisgeburtstage oder auch Veranstaltungen im Rahmen unseres Jahresprogramms durchgeführt. Neben unserem beachtlichen Jahresprogramm bieten wir auch Führungen für private Gruppen durch Ausstellung und Ried mit unseren Moorführern an. Außerdem steht uns ein großes Außengelände zu Verfügung und wir kümmern uns um die Pflege des Riedlehrpfades, die Weißstörche im Ried und bauen Krötenzäune auf und auch wieder ab.\n\n
+        Das Naturschutzzentrum Wilhelmsdorf besteht seit 1994 und wurde vom Schwäbischen Heimatbund (SHB) gegründet. Im Mai 2012 ging es in die gemeinsame Trägerschaft des SHB und der Gemeinde Wilhelmsdorf über. Seit 2016 gehört es zur Stiftung Naturschutz Pfrunger-Burgweiler Ried.\n
+    </string>
+    <string name="content_entstehung">
+        Naturgeschichtliche Entstehung\n\n
+        Kaum zu glauben ihr steht gerade mitten in besser auf einem ehemaligen Gletschersee.\n\n
+        Während der letzten Eiszeit, der Würm Eiszeit, schob sich eine gewaltige Gletscherzunge von den Alpen über den Bodensee bis nach Ostrach. Dort blieb sie für eine längere Zeit stehen transportierte Gestein und alles was auf ihrem Weg war mit und lagerte am Ende einen großen Wall ab – eine Endmoräne.
+        Der Gletscher war hier immer noch rund 100m hoch, riesig.\n\n
+        Als es wieder wärmer wurde, vor etwa 12.000 Jahren, begann der Gletscher zu schmelzen und wanderte zurück. Bei Wilhelmsdorf blieb der Gletscher erneut stehen und auch hier entstand eine Endmoräne.\n
+        Das sich bildende Schmelzwasser floss dann zwischen die beiden Endmoränen und ein riesiger Ursee bildete sich fast über die ganze Fläche von Wilhelmsdorf bis Ostrach. Aber nicht nur Wasser floss in diesen See, sondern auch das ganze feine Gesteinsmehl, das entsteht, wenn die vom Gletscher mitgeführten Steine aneinander reiben und sich rund schleifen. Dieses Gesteinsmehl sank auf den Seeboden, verstopfte dort alle Poren im Boden und damit konnte kein Wasser mehr versickern. Eine Stauschicht, Beckenton genannt, hatte sich gebildet. Das ist wichtig, sonst wäre das meiste Wasser versickert und es gäbe heute kein Moor.\n\n
+        Auf dieser Beckentonschicht lagerte sich Kalk, das von den Randbereichen eingeschwemmt wurde ab und durchzieht als Seekreide heute noch den Grund des Pfrunger-Burgweiler Rieds.\n
+        Doch ist das noch nicht die letzte Schicht im Boden: Dieser Ursee wurde ziemlich schnell von winzigen einzelligen Algen besiedelt: Sinken diese tot zu Boden, können sie im Wasser unter Sauerstoffmangel nur teilweise zersetzt werden – Faulschlamm entsteht und riecht ziemlich übel. Diese Schicht heißt Lebermudde und sieht aus wie Schokopudding.\n\n
+        Die Besiedelung des Sees mit Pflanzen und Tieren ging weiter. Bei den Pflanzen erst mal vom Rand her. Blätter und alte Pflanzen versanken unter Wasser, der See füllte sich nach und nach mit diesem organischen Material, das auch nur unvollständig zersetzt werden konnte – das nennt man dann Niedermoortorf. Die offene Wasserfläche verschwand.\n\n
+        Auf diesem Niedermoor entwickelte sich ein Zwischenmoor, auf dem auch Gehölze wachsen konnten. Die Anbindung ans mineralstoffreiche Grundwasser wurde immer schlechter und der Boden immer trockener.\n\n
+        Ob sich dann ein sogenannter Birkenbruchwald oder ein Hochmoor entwickeln kann hängt von den Jahresniederschlägen (im Hochmoor über 800mm / Jahr) und dem Nährstoffeintrag ab. Die Torfmoose des Hochmoores leben nur vom Regenwasser und decken ihren Nährstoffbedarf aus dem Staub der Luft.\n\n
+        Mit dem Erreichen des Hochmoorstadiums hat die Entwicklung des Moors sein Ende gefunden. Und dann kamen wir Menschen bauten große Teile des Torfs ab.\n
+        Renaturierungsmaßnahmen von 2012 – 2015 sorgen dafür, dass sich das Hochmoor wieder entwickeln kann.\n
+    </string>
+    <string name="content_torfstechen">
+        Torfstechen\n\n
+        Mit der Gründung von Wilhelmsdorf 1824 begann auch die Nutzung des Pfrunger-Burgweiler Rieds. Dazu musste das Ried Stück für Stück entwässert werden. Selbst die Ostrach wurde im Zeitraum von 1859 – 1866 begradigt und tiefer gelegt damit das Wasser besser und schneller abfließen konnte. Letztendlich gab es ca. 300 km Entwässerungsgräben im Ried.\n\n
+        Zu Beginn des Torfabbaus wurde im bäuerlichen Torfstich mit speziellen Winkelspaten rechteckige Torfstücke, die Wasen, vom „Wasenstecher“ ausgestochen und zwar Schicht für Schicht und dem „Fänger“ zugeworfen. Dieser stapelte die Wasen auf einem Transportgerät. Das konnte ein Schubkarren, Moorschlitten oder ein Rollwagen sein. Der Dritte im Team fuhr die Wasen in eine nahegelegene Wiese, wo sie zum Trocknen aufgesetzt wurden. Ein eingespieltes Drei-Mann-Team erntete am Tag bis zu 12.000 Wasenstücke.\n\n
+        Der industrielle Torfabbau begann 1857 mit speziellen Stech- oder Torferntemaschinen, später wurde mit großen Löffelbaggern der Torf geerntet. Der gewonnene Torf wurde hauptsächlich als Brenntorf zum Heizen und Streutorf, d.h. als Unterlage für die Rinder oder Pferde im Stall verwendet. Versuche, aus Torf Buchdruckerschwärze, Asphalt, Torföl und sogar Heizgas herzustellen haben sich nicht bewährt.\n\n
+        Der Torfabbau in den Moorgebieten Oberschwabens wurde 1996 gesetzlich verboten. Die einzige Ausnahme ist der Torfabbau im „Reicher Moos“ bei Vogt, um die vielen oberschwäbischen Kurkliniken mit Torf zu beliefern. Warmer Torfbrei wird für Moorbäder und Moorpackungen verwendet, denn Torf speichert die Wärme und gibt sie langsam ab. Er hilft außerdem bei Entgiftungen des Körpers.\n\n
+        Heute befindet sich Torf leider immer noch in der Gartenerde, bei dessen Abbau z.B. im Baltikum oder Russland weiterhin wertvolle Moore zerstört werden.\n\n
+        Hier könnt ihr den Mooren helfen, indem ihr nur Gartenerde ohne Torfzusatz oder eigene Komposterde verwendet. \n\n\n
+        Der Heizwert  ist die bei einer Verbrennung maximal nutzbare Wärmemenge, bei der es nicht zu einer Kondensation des im Abgas enthaltenen Wasserdampfes kommt, bezogen auf die Menge des eingesetzten Brennstoffs (in Unterscheidung zum Brennwert, der deshalb größer als der Heizwert ist).
+    </string>
+    <string name="content_ueberwachsener_see">
+        Der „Überwachsene See“\n\n
+        Hier sah es früher ganz anders aus und dafür muss man noch nicht einmal so weit in die Vergangenheit reisen. Noch vor ca. 200 Jahren, als die Wilhelmsdorfer anfingen das Ried zu nutzen, war an dieser Stelle der „Obere See“. Ein See in dem Fische schwammen und auf dem Boote fuhren.\n\n
+        Wie man heute weiß, ist das Naturschutzgebiet „Überwachsene See“ nicht ein Rest des großen Ursees, der nach der letzten Eiszeit hier entstand, sondern ein eigenständiger Grundwasseraufbruch, also eine Quelle, die sogar kalkreich ist.\n\n
+        Mit der beginnenden Landgewinnung und der damit einhergehenden Entwässerung des Rieds wurde der „Überwachsene See“ erst als Vorfluter genutzt, d.h. dort wurde das anfallende Wasser gesammelt und dann weiter über den Wilhelmsdorfer Kanal zur Ostrach weitergeleitet. Dies ermöglichte das „Überwachsen“ der ursprünglich offenen Wasserfläche, denn der Wasserstand senkte sich, schwimmender Torf ermöglichte die Bildung eines sogenannten Schwingrasens bestehend aus Zwischenmoorvegetation. Der See überwuchs nach und nach um 1900 vollständig zu verschwinden.\n\n
+        In diesem naturschutzfachlich besonderen Bereich lebten sehr viele seltene Tiere und Pflanzen. Allerdings entstand durch den zunehmenden Wasserschwund eine zunehmende Versauerung, Zersetzung und Nährstoffanreicherung des oberflächennahen Torfs. In Folge davon wuchsen Bäume und Sträucher und verdrängten bereits die wertvolle Zwischenmoorvegetation. Pflege wie Rodung der Bäume und Mahd der Fläche wurde notwendig.\n\n
+        Im Rahmen eines Großprojekts zur Renaturierung des Pfrunger-Burgweiler Rieds wurden Bäume gefällt und der Seewasserspiegel durch ein in den Boden eingebrachtes Bauwerk angestaut, um die Schwingrasendecke zu fördern\n
+        Ziel ist es, das Wachstum der Zwischenmoorarten zu fördern und eine Verbuschung zu verhindern.
+    </string>
+    <string name="content_grenzpfahl">
+        Grenzpfähle – Schwarzer Vere\n\n
+        Versetzt euch mal in die Zeit Anfang des 19. Jahrhunderts: Nachkriegszeit mit arbeitslosen Soldaten, Schlechtwetterperioden mit Missernten und Hungersnöten, beginnende Industrialisierung. Das sind schlechte Bedingungen zum (Über) Leben für einfache Leute.\n\n
+        Was liegt näher als der Armut zu trotzen und sich selbst zu helfen. So entstanden aus der Not heraus drei große Räuberbanden in Oberschwaben. Warum ausgerechnet hier? Oberschwaben war eine sehr dünn besiedelte Region mit vielen einsam gelegenen Bauernhöfen, großen zusammenhängenden Waldgebieten, dem schwer zugänglichem Ried und drei Ländergrenzen (Baden, Württemberg, Hohenzollern), die hier aufeinandertrafen und Verfolgung erschwerten.\n\n
+        Eine dieser Räuberbanden gruppierte sich um Xaver Hohenleiter, auch bekannt als „Schwarzer Vere“. Sie erbeuteten rund ums Ried Nahrungsmittel, Kleidung und Wertgegenstände, die sie auch verkaufen konnten. Im Frühjahr 1819 wurde dann hier im Ried bei der Laubbacher Mühle der Schwarze Vere und ein weiterer Mann festgenommen und letztendlich nach Biberach in den Ehingertorturm gebracht. Im Turm wurde er vom Blitz erschlagen, was man als Gottesurteil ansah.\n\n
+        Im Sommer 1992 konnte eine Eichensäule im Etterschen-Wald am Rand des Pfrunger Rieds errichtet werden, um nicht nur an die Geschehnisse von 1819 zu erinnern, sondern auch um den Menschen die sozialen Missstände dieser Zeit, wie Verschwendungssucht, Verzweiflung und Armut ins Gedächtnis zu rufen.\n
+    </string>
+    <string name="content_hochmoor_eulenbruck">
+        Das Hochmoor\n\n
+        In einem intakten Hochmoor ist der Boden immer nass, sauer und nähstoffarm. Der Regen bringt nicht nur das nötige Wasser, sondern der Staub darin ist die einzige Nährstoffquelle. Im Hochmoor leben Extremisten, die sich an diese besonderen Bedingungen angepasst haben. Ganz wichtig sind die Torfmoose, hier zu sehen am Rand des Tümpels, die sehr langsam wachsen und jedes Jahr etwa 1 mm Torfboden produzieren. Der Sonnentau, eine fleischfressende Pflanze, gehört auch hierher – schaut genau hin.\n\n
+        Leider wurde auch dieses Moor entwässert, um den Torf abbauen zu können. Fehlt das Wasser kommt Sauerstoff an die oberen Bodenschichten und dieser wird zersetzt. Dann wachsen hier auch andere Pflanzen wie z. B. das Heidekraut. Habt ihr es schon entdeckt?\n\n
+        Damit sich das Hochmoor wieder entwickeln kann gab es hier von 2002-2015 ein Großprojekt. Neu angelegte Stauwehre verhindern seitdem den schnellen Abfluss des Regenwassers. Der Boden (Torfkörper) kann sich mit Wasser vollsaugen und auf viele Jahre gesehen können die Moorspezialisten wieder wachsen.\n\n
+        Das Pfrunger-Burgweiler Ried ist mit ca. 2.600 ha das zweitgrößte Moorgebiet Südwestdeutschlands. Hier gibt es neben dem Hochmoor-Anteil noch ein Mosaik aus verschiedenen Moortypen, wie z. B. Durchströmungsmoore, Auenüberflutungsmoore und unter allem die Niedermoore. Mehr dazu erfahrt ihr in der Moorausstellung des Naturschutzzentrums.\n\n
+    </string>
+    <string name="content_teiche_und_tuempel">
+        Teiche und Tümpel\n\n
+        Die meisten Stillgewässer im Pfrunger-Burgweiler Ried entstanden durch den Torfabbau.\n
+        Ihr steht vor den sogenannten NABU-Teichen. Diese wurden extra angelegt, damit viele verschieden Tiere wie z. B. Frösche, Kröten und Molche, Libellen und andere Kleinlebewesen einen Lebensraum finden. Selbst der Biber ist vor kurzem angekommen. Habt Ihr seine Spuren entdeckt?\n
+        Zwischen den Wasserpflanzen am Rand tummeln sich die Jugendstadien der oben erwähnten Tiere und finden dort ihre Nahrung und Schutz vor ihren Fressfeinden. Allerdings sorgen die Reste dieser Pflanzen (alte Blätter, Wurzeln..) dafür, dass sich der Teich auffüllt. Das nennt man natürliche Verlandung eines Sees. Das bedeutet, dass in einigen Jahren, wenn keine Pflege stattfindet, die Teiche verschwinden werden.\n
+        Andere Teiche, wie z.B. die Hundschen Teiche und der Fünfeckweiher liegen im Zentrum vom Pfrunger-Burgweiler Ried. Umso älter die Teiche sind, desto weiter ist die Verlandung vorgeschritten und damit verbunden tragen sie auch verschiedenen Vegetationen.\n
+        Der Vogelsee ist einer der größten Seen im Pfrunger Ried und ist ein wichtiger Rastplatz für Zugvögel. Dort brüten im Sommer auch die Flußseeschwalben und Lachmöwen.\n
+        Der sogenannte Nill-See liegt direkt neben dem Vogelsee und ist der einzige See, der heute noch über den Fischereiverein befischt werden darf.\n
+        Ob Vogelsee, Hundsche Teiche oder kleine Tümpel: alle tragen zu einer großen Artenvielfalt bei. Mit viel Glück könnt ihr auch unser Maskottchen, die Europäische Sumpfschildkröte aufspüren.
+    </string>
+    <string name="content_pflanzen">
+        Die Pflanzen des Pfrunger-Burgweiler Ried\n\n
+        Auf der linken Seite kannst du eine Kategorie auswählen zu welchen Pflanzen du gerne weitere Informationen bekommen willst.\n
+    </string>
+    <string name="content_tiere">
+        Die Tiere des Pfrunger-Burgweiler Ried\n\n
+        Auf der linken seite Kannst du eine Kategorie auswählen zu welchen Tieren du gerne weitere Informationen bekommen willst.
+    </string>
+    <string name="content_bergmolch">
+        Triturus alpestris\n\n
+        Dies ist die einzige Schwanzlurchart des Riedes. Die erwachsenen Tiere sind nachtaktive Landbewohner. Ihre Beute besteht aus Insekten, Spinnen, Froscheiern und Würmern. Gegen Ende des Winters suchen die geschlechtsreifen Molche zur Fortpflanzung Torfstiche, Gräben und auch die Tümpel des Riedlehrpfades auf.
+    </string>
+    <string name="content_erdkroete">
+        Bufo bufo\n\n
+        In lauen Märznächten ziehen die Érdkröten, einzeln oder verpaart, zu den Laichgewässern. Aber nur wer dem Straßentod entgeht, erreicht sein Ziel. Deshalb bemühen sich alljährlich Naturschützer, um die Wanderwege von Amphibien zu sichern. Wenn im Sommer die ausgereiften Jungkröten in großer Zahl das Wasser verlassen, heißt es im Volksmund "Es hat Krotten gehagelt!“
+    </string>
+    <string name="content_grasfrosch">
+        Rana temporaria\n\n
+        Die Erwachsenen Tiere dieser „Braunfrösche“ sind nur während des Winters und im Frühling am Wasser anzutreffen. Jedes Weibchen legt bereits, im März in quallenförmigen Laichballen 3-4000 Eier ab. Eier, Kaulquappen und Jungfrösche fallen einer großen Zahl von Freßfeinden zum Opfer, so dass nur etwa 4 Tiere erwachsen werden. Als Landfrösche erbeuten sie vornehmlich Insekten und Schnecken, weshalb Insektizide und Schneckenkörner auch den Grasfröschen schaden. Die Froschschenkel waren früher bei uns als Delikatesse begehrt.
+    </string>
+    <string name="content_laubfrosch">
+        Hyla arborea\n\n
+        Wer an einem warmen Maiabend nach Einbruch der Dämmerung am Riedlehrpfad lauscht, kann den lautstarken Chorgesang der Laubfrösche vernehmen. Singwarten der kletterfreudigen Tiere sind Röhrichte, Büsche und e Art wurde früher als "Wetterfrosch" in menschliche Obhut genommen.
+    </string>
+    <string name="content_moorfrosch">
+        Rana arvalis\n\n
+        Er ist mit dem Grasfrosch nahe verwandt und von diesem nur schwer zu unterscheiden. Als Faustregel gilt: Moorfrösche sind "Braunfrösche" mit hellem Rückenstreifen! Die bei uns recht seltene Lurchart wurde bisher lediglich am Rande des Hochmoores beobachtet.
+    </string>
+    <string name="content_teichfrosch">
+        Pelophylax esculentus\n\n
+        Wenn Moorwanderer entlang des Lehrpfades grün-schwarz gefärbten, sehr ruffreudigen und wenig scheuen Froschlurchen begegnen, handelt es sich fast immer um diese Art. Sie verbringen nahezu ihr ganzes Leben im oder am Wasser. Während der Wintermonate ruhen Wasserfrösche im Grundschlamm von Teichen und Gräben.
+    </string>
+    <string name="content_europaeische_maulwurfsgrille">
+        Gryllotalpa gryllotalpa\n\n
+        Die Maulwurfsgrille liebt lockeren Boden und gräbt deshalb mit Vorliebe im weichen Torf des Riedes. Mit den schaufelförmigen Vorderbeinen werden Grabgänge angelegt. Dort leben die Tiere von Insekten, Würmern und pflanzenwurzeln. Ihre zirpenden Laute wurden wiederholt als Wechselkrötengesang gedeutet. Diese Amphibienart kommt jedoch in unserer Region nicht vor.
+    </string>
+    <string name="content_feldgrille">
+        Gryllus campestris\n\n
+        Die Trockenheit und Wärme liebende Feldgrille ist mittlerweile auch auf entwässerten Riedwiesen heimisch geworden. Sie gräbt bis zu 40 cm tiefe Gänge und lebt dort als „Single" von pflanzensprossen und Insekten. Zur Paarungszeit vernehmen wir das charakteristische Zirpen der Männchen; die damit um die Gunst der Weibchen buhlen.
+    </string>
+    <string name="content_feldwespe">
+        Polistes gallicus\n\n
+        Feldwespen bauen einreihige und unverhüllte Wabennester, die sie mit kurzem Stiel an Sträuchern befestigen. Sie leben vom Insektenfang. Dem Menschen gegenüber sind die Polistes-Arten friedlich gesinnt.
+    </string>
+    <string name="content_strauchschrecke">
+        Pholidoptera griseoaptera\n\n
+        Zu den sommerlichen „Musikanten" in buschreichem Gelände gehört die Strauchschrecke. Wir können ihr Zirpen bis in die Nacht hinein vernehmen. Besondere Merkmale sind lange Fühler und zu Stummeln reduzierte Flügel.
+    </string>
+    <string name="content_wasserskorpion">
+        Nepa cinerea\n\n
+        Der Wasserskorpion, eine Wasserwanze, lebt räuberisch am Grunde schlammiger Steh-Gewässer, so auch in unserern Lehrpfad-Tümpeln. Die Nahrung besteht aus Insekten, Kaulquappen und kleinen Fischen. Zum Luftholen klettern die Tiere an pflanzenstengeln hoch und schieben das Atemrohr aus dem Wasser.
+    </string>
+    <string name="content_glaenzende_smaragdlibelle">
+        Somatochlora metallica\n\n
+        Ein im Sonnenlicht irisierender Glanz zeichnet die prächtigen FalkenLibellen aus. Von den im Ried beheimateten vier Arten treffen wir am ehesten auf die grün schillernde "Metallica". Wenn im Hochsommer die Männchen auf Partnersuche sind fliegen sie entlang der Uferlinien so dass wir ihnen "hautnah" begegnen können.
+    </string>
+    <string name="content_grosser_blaupfeil.jpg">
+        Orthetrum cancellatum\n\n
+        Die ausgefärbten Männchen ähneln denen des Plattbauches, sind im Habitus jedoch viel schlanker. Blaupfeile bewegen sich oft weit entfemt von Gewässem und ruhen gerne auf beschotterten Wegen. Ihre Flugzeit dauert von Mai bis September.
+    </string>
+    <string name="content_grosse_koenigslibelle">
+        Anax imperator\n\n
+        Von Mitte Juni bis Ende August dauert die jährliche Herrschaft der "Königlichen" an den Riedteichen. Dann nämlich kontrollieren die leuchtend blau-schwarz gefärbten Männchen in majestätischem Schwirrflug ihre Reviere, bereit jeden Konkurrenten aus dem Felde zu schlagen.
+    </string>
+    <string name="content_vielfleck">
+        Libellula quadrimaculata\n\n
+        Wer diese Segellibelle am Lehrpfad sucht, hat am schnellsten Erfolg bei der Hochmoor-Station Eulenbruck. Der kleine Tümpel vor der Plattform ist ein beliebter Tummelplatz. Hier wird von Mitte Mai bis in den August gejagt, gebalzt und Hochzeit gefeiert. Von Ansitzwarten aus starten die temperamentvollen Tiere um Beute zu erhaschen.
+    </string>
+    <string name="content_blindschleiche">
+        Anguis fragilis\n\n
+        Ein heimlicher Riedbewohner ist die Blindschleiche. Wer jedoch die ausgewählten Ruheplätze kennt hat wenig Mühe die in ganz Europa beheimatete Schleichenart aufzuspüren. Bevorzugt werden feuchte und pflanzenreiche Biotope. Dort findet sie auch ihre Lieblingsnahrung: kleine Schnecken. Wie der Artname „fragilis“ andeutet, können nicht nur Eidechsen, sondern auch die nahe verwandten Blindschleichen bei Gefahr ihren Schwanz abstoßen.
+    </string>
+    <string name="content_europaeische_sumpfschildkroete">
+        Emys orbicularis\n\n
+        Die Verbreitung der Europäischen Sumpfschildkröte ist in Mitteleuropa stark rückläufig. Umso mehr freut uns die kleine Population im Bereich des Pfrunger Riedes. Die ersten Beobachtungen wurden 1970 an Torfstichen nahe der Ostrach gemacht. Um herauszufinden, ob sich die wärmeliebende Reptilienart bei uns noch vermehren kann wurde 1985 am Riedlehrpfad ein Emys-Gehege angelegt. Der Beweis für eine erfolgreiche Fortpflanzung gelang bisher nicht. Gegenwärtig bewohnen etwa 8 Exemplare die Gewässer entlang des Lehrpfades.
+    </string>
+    <string name="content_kreuzotter">
+        Vipera berus\n\n
+        Das wohl bekannteste und auch meiste diskutierte Reptil ist zweifellos die Kreuzotter. Diese auch für den Menschen gefährliche Giftschlange bevorzugt Gebiete abseits der Wanderwege, ein Grund mehr, die gesetzlich befriedeten Schutzgebiete möglichst zu meiden. Als noch Torfstecher und Beerensucher alljährlich in großer Zahl in das Ried zogen, kam es immer wieder zu Schlangenbissen mit unangenehmen Folgen. Das Beutespektrum besteht vorwiegend aus Mäusen, Fröschen und Waldeidechsen
+    </string>
+    <string name="content_waldeidechse">
+        Zootoca vivipara\n\n
+        Die Waldeidechse bewohnt fast alle naturnahen Lebensräume im Ried. Zum Sonnenbaden erscheinen die kleinen, dunklen Echsen auch auf den Bohlenwegen des Lehrpfades. Während alle anderen Eidechsenarten Eier legen bringt die „vivipara“ voll entwickelte Jungen zur Welt. Beutetiere sind Insekten und Spinnen.
+    </string>
+    <string name="content_zauneidechse">
+        Lacerta agilis\n\n
+        Die Zauneidechse bevorzugt trocke-warme Biotope wie Feldraine, Straßenböschungen und Hecken. Die Riedlandschaft hat sie erst nach deren Trockenlegung erobert. Dort treffen wir die lebhaft gefärbten Tiere vornehmlich im Bereich der Torfabbaustellen an. Als Sonnenplätze sind die Trockenen aufgestapelten Torfmieten besonders beliebt. Hier finden die Echsen auch die gewünschte Nahrung: Insekten und Spinnentiere.
+    </string>
+    <string name="content_bisamratte">
+        Ondatra zibethicus\n\n
+        Der wegen seines dichten Fells als Pelztier aus Nordamerika eingeführte Bisam gehört zu den Wühlmäusen und ist somit keine „Ratte“. Er lebt in und an Gewässern mit ausreichender Ufervegetation. Seine wichtigste Nahrung an den Teichen des Riedlehrpfades ist der Rohrkolben. Abgebissene pflanzenteile auf der Wasseroberfläche zeugen vom Hunger des Bisam. Aber auch Teichmuscheln werden verzehrt. Seinen Bau legt er in der Uferböschung oder als Kegelburg in der Flachwasserzone an. Der seitlich abgeplattete Schwanz, dessen oberer Rand beim Schwimmen aus dem Wasser ragt, dient ihm als Ruder.
+    </string>
+    <string name="content_haselmaus">
+        Muscardinus avellanarius\n\n
+        Zur Familie der Bilche (nicht zu den Mäusen) gehört die Haselmaus. Sie baut ihr Kugelnest aus trockenem Laub gerne in dornenbewehrte Hecken und Waldrandgehölze, wo sie ihre Lieblingsspeise – Nüsse und Beeren – findet. Wie die anderen „Schläfer“ hält sie ihren langen Winterschlaf in einem Frostsicheren Unterschlupf. Durch den buschigen Schwanz unterscheidet sie sich gut von der Zwergmaus, mit der sie manchmal verwechselt wird.
+    </string>
+    <string name="content_roetelmaus">
+        Myodes glareolus\n\n
+        Die vorwiegend an Gehölze gebundene kleine Wühlmaus mit leuchtend rotem Fell ernährt sich von Sämereien, Beeren, Nüssen und Ride sowie von tiereischer Kost. Sie bewohnt auch die dichten Bestände von Besensträuchern und Farnen am Lehrpfad. Der kleine Nager benutzt oberirdische Laufgänge und selbstgegrabene unterirdische Röhren, kann aber auch gut klettern. Wie alle Mäuse gehört die Rötelmaus zur Nahrungsgrundlage von Eulen, Greifvögeln und Raubsäugern.
+    </string>
+    <string name="content_siebenschlaefer">
+        Glis glis\n\n
+        In Baumhohlen und Nistkästen rund um das Ried zieht der Siebenschläfer seine Jungen auf. Als Nahrung dienen ihm Nüsse, Baumsamen, Früchte sowie tierische Kost. Er hält seinen Winterschlaf von November bis Mai in Erdhöhlen unter Bäumen oder in anderen geschützten Verstecken. Auch Forsthütten und andere menschliche Behausungen bewohnt der größte Vertreter unserer Bilche ganzjährig als Untermieter und raubt so Zeitgenossen den Schlaf.
+    </string>
+    <string name="content_wasserfledermaus">
+        Myotis daubentonii\n\n
+        Wer sich die Mühe macht in warmen, trockenen Sommernächsten mit Scheinwerfer und Fledermaus-Detektor die Torfstichteiche am Riedlehrpfad aufzusuchen, der wird diese an den Wasserlebensraum angepasste Fledermausart beobachten und hören können. Sie gaukelt tief über dem Gewässer und jagt Insekten aus der Luft oder von der Wasseroberfläche. Manchmal erwischt sie sogar kleine Fische. Während ihres Jagdfluges gibt sie permanent „knatternde“ Laute im Ultraschallbereich ab, die wir nur mit technischer Hilfe für das Menschliche Ohr hörbar machen können. Ihre Tagesquartiere befinden sich oft Kilometer weit entfernt.
+    </string>
+    <string name="content_wasserspitzmaus">
+        Neomys fodiens\n\n
+        Alle Lebensräume des Riedes sind von Spitzmäusen besiedelt, die keine Mäuse sind, sondern zu den Insektenfressern gehören. Die größte und auffälligste Art ist die schwarz-weiß gefärbte Wasserspitzmaus, die in den Teichen und Gräben nach Nahrung jagt. Tauchend erbeutet sie WasserInsekten, Larven, Schnecken, kleine Fische und junge Frösche. Spitzmäuse müssen mindestens ihr eigenes Körpergewicht pro Tag an Nahrung verzehren, um zu überleben. Deshalb können sie sich keine langen Schlafpausen erlauben, allenfalls ein kleines „Nickerchen“ zwischendurch.
+    </string>
+    <string name="content_zwergmaus">
+        Micromys minutus\n\n
+        Gerade daumengroß ist die Zwergmaus eine typische Riedbewohnerin, die ihre Kugelnester aus Gras ca. 1 Meter über dem Erdboden ins Röhricht baut. Hier zieht die Maus - vor Bodenfeinden sicher - ihre Jungen auf. As spezialisierter Halmkletterer kann sie sich mit ihren Greiffüßen und ihrem Greifschwanz flink in Schilf und hohem Gras fortbewegen. Sie ernährt sich von Sämereien und Kleintieren. Den Winter verbringt sie in Erdlöchern, unter Schilfhaufen oder anderen bodennahen Verstecken, wo sie jedoch keinen Winterschlaf hält.
+    </string>
+    <string name="content_feenlaempchenspinne">
+        Agroeca brunnea\n\n
+        Die Feenlämpchen-Spinne wird wegen ihrer heimlichen Lebensweise nur selten gesehen.\n
+        Ihre Präsenz verraten jedoch die an Grashalmen befestigten Eikokons, im Volksmund „Feenlämpchen" genannt.
+    </string>
+    <string name="content_jagdspinne">
+        Dolomedes fimbriatus\n\n
+        Die Gerandete Jagdspinne gilt mit einer Körperlänge von bis zu 2 cm als größte heimische Spinnenart. Sie lebt im Uferbereich unserer Moorgewässer und erbeutet dort Wassertiere bis hin zu kleinen Fischen.\n
+        Die auch im Pfrunger Ried recht seltene Dolomedes wurde auf der Roten Liste als „gefährdet" eingestuft.
+    </string>
+    <string name="content_veraenderliche_krabbenspinne">
+        Misumena vatia\n\n
+        Die Gelbe Krabbenspinne sitzt meist gut getarnt auf Wiesenblumen und erbeutet dort blütenbesuchende Insekten. Diese Spinne kann sich — gleich einem Chamäleon — farblich ihrer Umgebung anpassen.
+    </string>
+    <string name="content_zebraspinne">
+        Argiope bruennichi\n\n
+        An sonnigen Plätzen mit niedriger Vegetation erscheint in der zweiten Sommerhälfte die Zebraspinne. Man entdeckt deren Radnetze mit dem auffälligen Zickzackband (Stabiliment) am ehesten in der Morgenfrühe, wenn irisierende Tautropfen das zarte Gespinst von der Umgebung abheben. Im Herbst fertigt das Weibchen einen Eikokon, in dem die Jungen überwintern.\n
+        Bemerkenswertes: Nach der Paarung wird das Männchen fast immer vom viel größeren Weibchen verspeist. Die früher nur in Südeuropa beheimatete Art hat sich mittlerweile in ganz Deutschland ausgebreitet. Klimaveränderung?
+    </string>
+    <string name="content_blaesshuhn.jpg">
+        Fulica atra\n\n
+        Der einzige schwarze Wasservogel mit weißem Schnabel und weißem Stirnschild (Diese „Blässe“ stand bei der Namengebung Pate). Brütet an Gewässern aller Art im Ried, so auch hier am Lehrpfad. Im Frühsommer können wir dann Dunenjunge mit auffällig rostrotem Kopf und Hals beobachten.
+    </string>
+    <string name="content_eisvogel">
+        Alcedo atthis\n\n
+        Der „fliegende Edelstein“ ist unregelmäßiger Brutvogel im Ried. Das große Angebot an Kleinfischen in den Naturschutz-Seen lockt aber auch Zuggäste an. Beobachtungen sind an den größeren Torfstichen, an der Ostrach und am Riedlehrpfad möglich. Der Vogel besticht nicht nur durch ein bunt schillerndes Gefieder, sondern auch durch seinen markanten Ruf.
+    </string>
+    <string name="content_fluss_Seeschwalbe">
+        Sterna hirundo\n\n
+        Durch die Schaffung von Feuchtbiotopen mit Brutinseln konnte diese im Binnenland recht seltene Vogelart im Pfrunger Ried angesiedelt werden. Gegenwärtig brüten alljährlich mehrere Paare im Schutze einer Lachmöwenkolonie im Ried.
+    </string>
+    <string name="content_hoeckerschwan">
+        Cygnus olor\n\n
+        Unser größter flugfähiger Vogel besucht von Zeit zu Zeit sowohl die Riedseen wie auch den Lehrpfad. Er hat mehrfach im Ried gebrütet. Kennzeichen sind neben der Größe ein schwarz-rot gefärbter Schnabel. Sein nordischer Vetter, der am Bodensee überwinternde Singschwan, hat einen schwarz-gelben Schnabel.
+    </string>
+    <string name="content_lachmoewe">
+        Chroicocephalus ridibundus\n\n
+        Alljährlich im zeitigen Frühling erscheinen Lachmöwenschwärme im Ried. Sie brüten auf Inseln der großen Stichseen im Naturschutzgebiet. Umherschweifende Trupps besuchen dann regelmäßig auch die Gewässer des Riedlehrpfades und des Lengenweiler Sees.
+    </string>
+    <string name="content_reiherente">
+        Aythya fuligula\n\n
+        Der reiherartige Schopf am Hinterkopf des Erpels gab dieser Ente den Namen. Sie sucht ihre Nahrung tauchend. Bei diesem Spätbrüter erscheinen die Jungen erst Anfang Juli. Am Riedlehrpfad und noch häufiger an der Ostrach können wir den Entenfamilien begegnen.
+    </string>
+    <string name="content_stockente">
+        Anas platyrhynchos\n\n
+        Größte und häufigste Schwimmente im Gebiet. Sucht ihre Nahrung gründelnd. Stammutter unserer Hausente. Brütet alljährlich in mehreren Paaren am Riedlehrpfad. Nur strenger Winterfrost kann die Vögel kurzzeitig vertreiben. Der laute Quak-Ruf kommt vom Weibchen.
+    </string>
+    <string name="content_tafelente">
+        Aythya ferina\n\n
+        Männchen: Einzige Ente in der Region mit kastanienbraunem Kopf und Hals. Weibchen: Grau und braun. Am Lehrpfad selten. Gelegentlicher Brutvogel am Guggenhauser Weiher. Zur Zugzeit häufiger Gast an den großen Stichseen im Ried.
+    </string>
+    <string name="content_zwergtaucher">
+        Tachybaptus ruficollis\n\n
+        Kleiner, heimlicher Tauchvogel mit kastanienrotem Hals und gelblich-weißem Fleck am Schnabelgrund. Brütet auf den Tümpeln am Riedlehrpfad. Dort ist auch sein Balzruf, ein helles metallisches Trillern, zu hären. Die gestreiften Jungen sind Nestflüchter. Um auszuruhen klettern sie von Zeit zu Zeit auf den Rücken der schwimmenden Eltern.
+    </string>
+    <string name="content_heidelbeere">
+        Vaccinium myrtillus\n\n
+        Ein nur im Sommer belaubter, kleiner Strauch mit kantigen Stängeln und blassrosa Blüte. Die blau bereiften, rotfleischigen Beeren werden von Vögeln und Säugetieren verzehrt. Nicht weniger beliebt sind die wohlschmeckenden Früchte beim Menschen.\n\n
+        Besonderheit: Bei Heidel- und RauschBeeren verfärben sich die Blätter vor dem Laubfall oft intensiv rot.
+    </string>
+    <string name="content_moosbeere">
+        Vaccinium oxycoccus\n\n
+        Ein immergrüner Zwergstrauch mit fadenförmig dünnen, kriechenden Stängeln, winterharten Blättern und hellpurpurnen Blüten. Die vereinzelt auf Moospolstern liegenden, säuerlich schmeckenden roten Früchte können wie PreiselBeeren verwendet werden.\n
+        Diesen Sträuchern verwandt ist die Rosmarinheide (Andromeda polifolia). Sie entwickelt jedoch keine Beeren, sondern Kapselfrüchte. Das ist auch gut so, denn die Pflanze ist in allen Teilen giftig.\n
+        Kennzeichen: Immergrüne, netzadrige Blätter.\n
+    </string>
+    <string name="content_preiselbeere">
+        Vaccinium vitis-idaea\n\n
+        Ein rund ums Jahr belaubter Zwergstrauch mit weiß- bis rosafarbenen Blüten und glänzend roten Beeren in Trauben. Die ledriger Blätter sind oberseits dunkelgrün, unterseits hellbraun und drüsig punktiert (Lupe).\n
+        Die im rohen Zustand wenig schmackhaften Beeren sind gekocht eine Delikatesse und ergeben eine vorzügliche Beilage zu Wildgerichten. Natürlich laben sich auch Tiere an diesen Leckerbissen.\n
+    </string>
+    <string name="content_rauschbeere">
+        Vaccinium uliginosa\n\n
+        Ein kniehoher, winterkahler Strauch mit oben blaugrünen, unten hellgrauen Blättern und rosafarbenen Blüten. Das Fruchtfleisch der blau bereiften Beeren ist - im Gegensatz zu den HeidelBeeren - farblos. RauschBeeren sind essbar, jedoch fad im Geschmack. Der Verzehr soll rauschartige Zustände auslösen, wobei der Nachweis von Giftstoffen bisher nicht gelungen ist. Möglicherweise wird die Wirkung erst durch Pilzbefall verursacht.\n
+        Besondere Bedeutung erhält der Strauch als Futterpflanze für die Raupen des Hochmoorgelblings (Colias palaeno).
+    </string>
+    <string name="content_breitblaettriger_dornfarn">
+        Dryopteris dilatata\n\n
+        Der Breitblättrige Dornfarn, auch Großer Dornfarn, hat breitgefächerte, dreifach gefiederte Wedel mit stachlspitzigen Blättchen. Bei Verwendung einer Lupe werden Drüsenhaare sichtbar. Die Stielbasis ist reichlich mit Spreuschuppen besetzt.
+    </string>
+    <string name="content_eichenfarn">
+        Gymnocarpium dryopteris\n\n
+        Nur vereinzelt wagt sich der in den umliegenden Mischwäldern heimische Eichenfarn auch ins Ried. Die bis zu 40 cm hohen Wedel sind im oberen Teil abgeknickt.
+    </string>
+    <string name="content_frauenfarn">
+        Dryopteris dilatata\n\n
+        Der Frauenfarn ist in unseren Wäldern weit verbreitet. Wir finden ihn aber auch im Birkenbruchwald des Riedes. Besondere Kennzeichen: Zartgliedrige, hellgrüne, 2-3´-fach gefiederte Wedel.
+    </string>
+    <string name="content_gewoehnlicher_dornfarn">
+        Dryopteris carthusiana\n\n
+        Zu den häufigsten Farnarten im bewaldeten Ried zählt der Kleine oder Gewöhnliche Dornfarn. Besondere Kennzeichen: Schlanke, gelbgrüne, zweifach gefiederte Blattwedel mit stachelspitzigen Blättchen. Blatt- und Stengeldrüsen fehlen.
+    </string>
+    <string name="content_kammfarn">
+        Dryopteris cristata\n\n
+        Der nässeliebende Kammfarn, ist aufgrund der großräumigen Entwässerungsmaßnahmen der vergangenen Jahrzehnte nun zur Rarität geworden. Diese Art bildet unterschiedliche Blattformen aus. Die sporentragenden Wedel sind schlank, hochgewachsen und mit abgewinkelten Fiedern besetzt. Die sterilen Blätter sind kurz, schlaff und ausgebreitet.
+    </string>
+    <string name="content_sumpffarn">
+        Thelypteris palustris\n\n
+        In Verlandungszonen der oberschwäbischen Seen und Weiher wächst der Sumpflappenfarn. Im Bereich des Pfrunger Riedes gedeiht er im Großen Trauben, im Tisch und am Ufersaum des Lengenweiler Sees. Besondere Kennzeichen: Gelbgrüne schlanke Wedel mit zarten, einfach gefederten Blättern.
+    </string>
+    <string name="content_tuepfelfarn">
+        Polypodium vulgare\n\n
+        An Nagelfluh Felswänden der ??? wächst der Tüpfelfarn. Besondere Kennzeichen: Die punktförmigen Sporangien auf der Unterseite der fruchtbaren Wedel sind in Reihen beiderseits der Blattrippen angeordnet.
+    </string>
+    <string name="content_brunnenlebermoos">
+        Marchantia polymorpha\n\n
+        Zuweilen erscheinen aber auch Lebermoose. Deren auffälligster Vertreter ist das Brunnenlebermoos.
+    </string>
+    <string name="content_federmoos">
+        Ptilium crista-castrensis\n\n
+        Im Moorbirkenwald trifft man sehr selten auf das Federmoos.
+    </string>
+    <string name="content_goldene_frauenhaarmoos">
+        Ptilium crista-castrensis\n\n
+        Im Moorbirkenwald trifft man häufig auf das Goldene Frauenhaarmoos.
+    </string>
+    <string name="content_mittlere_torfmoos">
+        Sphagnum magellanicum\n\n
+        In den Hochmooren führen die vitalen TorfMoose Regie. Ihre Wasserspeicherzellen schützen das Moor vor Austrocknung. Durch raumgreifendes Wachstum produzieren sie nicht nur Torf, sondern verändern auch nachhaltig die Landschaft. Bei Wassermangel verbleichen die Sphagnen, weshalb sie auch "BleichMoose" genannt werden. Dies vermittelt uns hier das Mittlere Torfmoos.
+    </string>
+    <string name="content_sparriges_torfmoos">
+        Sphagnum squarrosum\n\n
+        Das Sparrige Torfmoos erkennt man am lockeren Bau und den sparrig abstehenden Ästen. Wir finden es in nährstoffreichen Niedermooren.
+    </string>
+    <string name="content_sumpf_streifensternmoos">
+        Aulacomnium palustre\n\n
+        Das gelbgrüne Sumpfstreifenmoos liebt saure und nasse Hochmoorstandorte.
+    </string>
+    <string name="content_birkensporling">
+        Piptoporus betulinus\n\n
+        Häufigster Baumpilz im Moorwald ist der Birkenporling. Wir finden die weichen Konsolen ausschließlich auf Birken. Als Parasit bedroht der Pilz das Leben der Wirtsbäume, auf Totholz verursacht er eine rasch fortschreitende Braunfäule.
+    </string>
+    <string name="content_fliegenpilz">
+        Amanitaa muscaria\n\n
+        Giftig und schön ist der weit verbreitete, leuchtende rote und weiß befleckte Fliegenpilz.
+    </string>
+    <string name="content_gesaeumter_haeubling">
+        Galerina paludosa\n\n
+        Zwischen TorfMoosen und MoosBeeren heimisch sin d die zarten Gebilde des Gesäumten Häublings.
+    </string>
+    <string name="content_hallimasche">
+        Armillaria\n\n
+        Entrindet man den Stammfuß eines vom Hallimasch befallenen Baumes, wird das im Verborgenen lebende Pilzgeflecht (Myzel) sichtbar. Die Stränge verstopfen die Saftbahnen, der Baum stirbt. Äußerlich erscheinen nur die Fruchtkörper. Sie sind im jugendlichen Stadium essbar.
+    </string>
+    <string name="content_herkuleskeule">
+        Clavariadelphus pistillaris\n\n
+        In den Laubwäldern der Riedflanken kann der Pilzfreund zuweilen auf die eigenwillig geformte Herkuleskeule treffen. Dieser Pilz ist ungenießbar.
+    </string>
+    <string name="content_kahle_krempling">
+        Paxillus involutus\n\n
+        Der für Menschen giftige Kahle Krempling, hat sich im Randbereich des Großen Trauben angesiedelt.
+    </string>
+    <string name="content_laubwald_rotkappe">
+        Leccinum aurantiacum\n\n
+        Wenn im Ried unter Zitterpappeln ein Röhrling mit weißem Stiel und rot-braunem Hut auftaucht, handelt es sich meist um die Espen-Rotkappe. Es handelt sich hierbei um einen sehr guten Speisepilz.
+    </string>
+    <string name="content_rotbrauner_streifling">
+        Amanita fulva\n\n
+        Zu den häufigsten Pilzen im Moorbirkenwald zählt der Rotbrauner Streifling. Im Rohen zustand ist er giftig, gut gekocht kann er jedoch verzehrt werden sein Speisewert wird jedoch als gering geschätzt.
+    </string>
+    <string name="content_speitaeubling">
+        Russula emetica\n\n
+        Speitäubling treffen wir vom Juli bis November im bodensauren Hochmoor an.
+    </string>
+    <string name="content_spitz_morchel">
+        Morchella elata\n\n
+        Bereits Anfang Mai können im Etterschen-Wald die wabenartigen Gebilde der essbaren Spitz-Morchel gefunden werden.
+    </string>
+    <string name="content_stinkmorchel">
+        Phallus impudicus\n\n
+        Die Stinkmorchel verströmt Aasgeruch. Sie lockt damit Fliegen an, die ihre Sporen im Walde verbreiten.
+    </string>
+    <string name="content_aestiger_igelkolben">
+        Sparganium erectum\n\n
+        Blüte und Fruchtstand. Besonderes Merkmal: Dreikantige Blätter.
+    </string>
+    <string name="content_echte_zaunwinde">
+        Calystegia sepium\n\n
+        Im Röhricht an Schilf und Rohr windend.
+    </string>
+    <string name="content_fiberklee">
+        Menyanthes trifoliata\n\n
+        Eine Schwimmblattpflanze, die auch nach der Verlandung des Gewässers noch lange Zeit die Niedermoorflora bereichern kann.
+    </string>
+    <string name="content_gilbweiderich">
+        Lysimachia vulgaris\n\n
+        In Streuwiesen, Ufergesellscahften und im lichten Bruchwald zu finden.
+    </string>
+    <string name="content_krebsschere.jpg">
+        Stratiotes aloides\n\n
+        -Inhalt in Bearbeitung-
+    </string>
+    <string name="content_rundblaettriges_wintergruen">
+        Pyrola rotundifolia\n\n
+        Auffällige weiße Blüten im Juni.
+    </string>
+    <string name="content_schilfrohr">
+        Phragmites communis\n\n
+        Diese auf gut schäbisch „Binse“ genannte Süßgrasart ist ein wichtiger Torfproduzent, der zusammen mit Sauergräsern die sogenannte Schilf-Seggentorf-Schichten aufbaut.
+    </string>
+    <string name="content_schwanenblume">
+        Butomus umbellatus\n\n
+        -Inhalt in Bearbeitung-
+    </string>
+    <string name="content_sumpfdotterblume">
+        Caltha palustris\n\n
+        Ab April blühend im Röhricht, an Grabenrändern und im Moorwald anzutreffen.
+    </string>
+    <string name="content_wechselblaettriges_milzkraut">
+        Chrysosplenium alternifolium\n\n
+        Frühblüher auf durchnässten Uferbereichen und Grabenrändern.
+    </string>
+    <string name="content_zottiges_weideroeschen">
+        Epilobium hirsutum\n\n
+        Ein Stattlicher, oft meterhoher Uferbewohner mit stark behaarten Stengeln.
+    </string>
+    <string name="content_zungen_hahnenfuss">
+        Ranunculus lingua\n\n
+        Dieser stattliche Röhrichtbewohner fällt auf durch gezähnte lanzettliche Blätter und bis zu 4 cm großen Blüten.
+    </string>
+    <string name="content_breitblaettriger_rohrkolben">
+        Typha latifolia\n\n
+        -Inhalt in Bearbeitung-
+    </string>
+    <string name="content_froschbiss">
+        Hydrocharis morsus-ranae\n\n
+        -Inhalt in Bearbeitung-
+    </string>
+    <string name="content_gewoehnlicher_wasserschlauch">
+        Utricularia vulgaris\n\n
+        -Inhalt in Bearbeitung-
+    </string>
+    <string name="content_kleine_wasserlinse">
+        Lemna minor\n\n
+        -Inhalt in Bearbeitung-
+    </string>
+    <string name="content_nickender_zweizahn">
+        Bidens cernua\n\n
+        -Inhalt in Bearbeitung-
+    </string>
+    <string name="content_sumpf_schwertlilie">
+        Iris pseudacorus\n\n
+        -Inhalt in Bearbeitung-
+    </string>
+    <string name="content_weisse_seerose">
+        Nymphaea alba\n\n
+        -Inhalt in Bearbeitung-
+    </string>
+
+    <string name="manager_toggle_start">
+        Beaconsuche an
+    </string>
+    <string name="manager_toggle_stop">
+        Beaconsuche aus
+    </string>
+
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="title_activity_main">Barcode Reader Sample</string>
+    <string name="barcode_header">Click &quot;Read Barcode&quot; to read a barcode</string>
+    <string name="read_barcode">Read Barcode</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Use Flash</string>
+    <string name="barcode_success">Barcode read successfully</string>
+    <string name="barcode_failure">No barcode captured</string>
+    <string name="barcode_error">"Error reading barcode: %1$s"</string>
 </resources>

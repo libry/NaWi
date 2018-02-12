@@ -9,12 +9,22 @@
             android:title="Tiere"/>
         <item
             android:id="@+id/nawi_pflanzen"
-            android:icon="@drawable/sumpf"
+            android:icon="@drawable/blatt"
             android:title="Pflanzen"/>
         <item
             android:id="@+id/nawi_umfrage"
             android:icon="@android:drawable/ic_menu_agenda"
             android:title="@string/umfrage" />
+        <item
+            android:id="@+id/qr_code"
+            android:icon="@drawable/qr_code"
+            android:title="QR Code"
+            />
+        <item
+            android:id="@+id/beacon"
+            android:icon="@drawable/ic_launcher"
+            android:title="@string/manager_toggle_start"
+            />
         <item
             android:id="@+id/nawi_info"
             android:icon="@android:drawable/ic_menu_help"

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/pflanzen_beeren"
+            android:icon="@drawable/beeren"
+            android:title="Beeren"/>
+        <item
+            android:id="@+id/pflanzen_farne"
+            android:icon="@drawable/farne"
+            android:title="Farne"/>
+        <item
+            android:id="@+id/pflanzen_moose"
+            android:icon="@drawable/moose"
+            android:title="Moose" />
+        <item
+            android:id="@+id/pflanzen_pilze"
+            android:icon="@drawable/pilze"
+            android:title="Pilze" />
+        <item
+            android:id="@+id/pflanzen_sumpf"
+            android:icon="@drawable/sumpfpflanzen"
+            android:title="Sumpfpflanzen" />
+        <item
+            android:id="@+id/pflanzen_wasser"
+            android:icon="@drawable/wasserpflanzen"
+            android:title="Wasserpflanzen" />
+        <item
+            android:id="@+id/map"
+            android:icon="@drawable/map"
+            android:title="Karte" />
+    </group>
+
+</menu>
